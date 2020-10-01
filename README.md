@@ -1,17 +1,43 @@
 # Julia-for-data-science course 
 
-1. Data
-2. Linear Algebra 
-3. Statistics
-4. 
-5. Clustering
-6. Classification 
-7. Regression
-8.
-9.
+1. [Data](#data)
+2. [Linear Algebra](#linear-algebra) 
+3. [Statistics](#statistics)
+4. [Dimensionality Reduction](#dimensionality-reduction)
+5. [Clustering](#clustering)
+6. [Classification](#classification) 
+7. [Regression](#regression)
+8. [Graphs](#graphs)
+9. [Numerical Optimization](#numerical-optimization)
+10. [Neural Networks](#neural-networks)
+11. [From other languages](#from-other-languages)
+12. [Visualization](#visualization]
 
 **This respository is based in the [tutorial](https://github.com/JuliaAcademy/DataScience) created for [JuliaAcademy](https://juliaacademy.com/) and taught by [Huda Nassar](https://github.com/nassarhuda).**
 
-## 01. Data
+## Data
+
+## Linear Algebra
+
+## Statistics
+
+## Dimensionality Reduction 
+
+## Clustering
+
+## Classification
+
+## Regression
+
+## Graphs
+
+## Numerical Optimization 
+
+## Neural Networks 
+
+## From other languages 
+
+## Visualiation 
+
 
 
