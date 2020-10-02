@@ -1,5 +1,6 @@
 # Julia-for-data-science course 
 
+0. [Datasets](#datasets)
 1. [Data](#data)
 2. [Linear Algebra](#linear-algebra) 
 3. [Statistics](#statistics)
@@ -14,6 +15,8 @@
 12. [Visualization](#visualization)
 
 **This respository is based in the [tutorial](https://github.com/JuliaAcademy/DataScience) created for [JuliaAcademy](https://juliaacademy.com/) and taught by [Huda Nassar](https://github.com/nassarhuda).**
+
+Below are shown the most important Julia packages used in the course, classified by topic.
 
 ## Datasets 
   - [RDatasets](https://github.com/JuliaStats/RDatasets.jl)
